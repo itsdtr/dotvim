@@ -17,6 +17,8 @@ set shiftwidth=4
 set expandtab
 set hlsearch
 set incsearch
+set ignorecase
+set smartcase
 
 filetype plugin indent on
 au FileType py set autoindent
