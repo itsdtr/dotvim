@@ -5,3 +5,7 @@ Installation:
 Create symlink:
 
     ln -s ~/.vim/vimrc ~/.vimrc
+
+Supporting Software:
+
+    pip install jedi
